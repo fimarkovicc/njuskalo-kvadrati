@@ -9,6 +9,10 @@ Ova Chrome ekstenzija unapređuje Njuskalo oglasnik za nekretnine prikazujući c
 - Prikazuje izračunatu cijenu kao €/m² izravno na oglasu.
 - Podržava oglase na stranicama **prodaja-stanova**, **nekretnine** i **prodaja-kuca** na Njuskalu.
 
+![image](https://github.com/user-attachments/assets/8386dd22-c8b0-45eb-b12d-c5d53b19b89a)
+![image](https://github.com/user-attachments/assets/013cd02d-b923-472d-bc7c-f9df9d86f685)
+
+
 ## Instalacija
 
 1. Preuzmite ili klonirajte ovaj repozitorij.
