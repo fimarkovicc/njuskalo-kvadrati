@@ -1,7 +1,7 @@
 {
   "name": "Njuskalo Kvadrati",
   "description": "Prikaz cijene po kvadratu na Njuskalo oglasniku za nekretnine.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "manifest_version": 3,
   "icons": {
     "16": "images/16x16.png",
@@ -12,7 +12,6 @@
     "service_worker": "./background.js"
   },
   "action": {
-    "default_popup": "./popup.html",
     "default_icons": {
       "16": "images/16x16.png",
       "48": "images/48x48.png",
